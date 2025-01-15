@@ -1,7 +1,7 @@
 {
     "name": "giftcards",
     "short_name": "giftcards",
-    "start_url": ".",
+    "start_url": "https://kundan-jadhav2001.github.io/giftcards/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",

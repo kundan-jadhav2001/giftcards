@@ -73591,7 +73591,7 @@ return A.M($async$wo,r)}}
 A.a3k.prototype={}
 A.GQ.prototype={
 M(a){var s=null
-return new A.wg(B.Cj,"Flutter Demo",A.r0(s,A.am5(B.ab,s,s,B.JC),B.T_,!0),!1,s)}}
+return new A.wg(B.Cj,"Gift Cards",A.r0(s,A.am5(B.ab,s,s,B.JC),B.T_,!0),!1,s)}}
 A.vx.prototype={
 ak(){var s=A.avy(),r=$.al()
 return new A.Mt(s,new A.yI(B.jr,r),new A.yI(B.jr,r),new A.a8i("kundanjadhav2001@okaxis","Kundan Vijay Jadhav",10))}}
